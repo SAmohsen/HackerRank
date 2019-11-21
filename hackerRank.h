@@ -19,4 +19,12 @@ int* gradingStudents(int grades_count, int* grades, int* result_count) ;
 void countApplesAndOranges(int s, int t, int a, int b, int apples_count, int* apples, int oranges_count, int* oranges) ;
 char* kangaroo(int x1, int v1, int x2, int v2) ;
 char* timeConversion(char* s) ;
+
+
+
+int birthday(int s_count, int* s, int d, int m) ;
+int migratoryBirds(int arr_count, int* arr) ;
+int* breakingRecords(int scores_count, int* scores, int* result_count) ;
+
+
 #endif /* HACKERRANK_H_ */
